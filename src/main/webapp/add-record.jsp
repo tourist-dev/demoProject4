@@ -20,6 +20,7 @@
         Total Amount: <input type="text" name="total">
         Active: <input type="text" name="active">
         Created Date: <input type="text" name="date">
+        <input type="submit">
     </form>
 </body>
 </html>
