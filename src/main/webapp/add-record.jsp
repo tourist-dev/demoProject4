@@ -11,6 +11,15 @@
     <title>Add record</title>
 </head>
 <body>
-
+    <form action="add-record" method="post">
+        ID: <input type="text" name="id">
+        Policy number: <input type="text" name="pnum">
+        Policy Effective Date: <input type="text" name="peffdate">
+        Policy Expiry Date: <input type="text" name="pexpdate">
+        Payment option: <input type="text" name="payment">
+        Total Amount: <input type="text" name="total">
+        Active: <input type="text" name="active">
+        Created Date: <input type="text" name="date">
+    </form>
 </body>
 </html>
