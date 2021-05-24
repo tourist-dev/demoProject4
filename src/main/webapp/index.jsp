@@ -9,6 +9,6 @@
 </h1>
 <br/>
 <a href="view-records">view records</a>
-<a href="add-record">add records</a>
+<a href="add-record.jsp">add records</a>
 </body>
 </html>
